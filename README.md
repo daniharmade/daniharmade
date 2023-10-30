@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![hero](https://github.com/daniharmade/daniharmade/assets/128836963/44909f65-d330-4d24-a633-58dfc5c944a7)
+
+
+Hi, My name is **Dani Harmade**. I'm from **Universitas Islam Negeri Sultan Syarif Kasim Riau** taking Bachelor of Science **Information System**.
+I have huge interest in Web Developer & Networking.
+
 <!--
 **daniharmade/daniharmade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
