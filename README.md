@@ -4,7 +4,8 @@
 
 Hi, My name is **Dani Harmade**. I'm from **Universitas Islam Negeri Sultan Syarif Kasim Riau** taking Bachelor of Science **Information System**.
 I have huge interest in Web Developer & Networking.
-Jika kamu tertarik untuk berkolaborasi, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/daniharmade/) ku ya.
+
+Jika kamu tertarik untuk berkolaborasi, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/daniharmade/) untuk berdiskusi lebih lanjut.
  
 ### Github Statistic
 <img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=daniharmade&theme=radical"/>
