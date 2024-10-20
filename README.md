@@ -6,16 +6,12 @@ Hi, My name is **Dani Harmade**. I'm from **Universitas Islam Negeri Sultan Syar
 I have huge interest in Web Developer & Networking.
 
 If you are interested in collaborating, please follow my [Linkedin](https://www.linkedin.com/in/daniharmade/) account to discuss further.
+
+<img alt="my languange" align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniharmade&layout=compact&theme=radical"/>
  
-<div align="center">
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=daniharmade&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0" alt="GitHub Streak"/>
-  </a>
-  
-  <!-- Top Languages -->
-  <img alt="my languange" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniharmade&layout=compact&theme=radical" />
-</div>
+### Github Statistic
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniharmade&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats)
+
 
 
 
