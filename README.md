@@ -12,8 +12,6 @@ If you are interested in collaborating, please follow my [Linkedin](https://www.
 
 <img alt="my languange" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniharmade&layout=compact&theme=radical"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniharmade&label=Profile%20views&color=0e75b6" alt="hafizaryan" /> </p>
-
 
 <!-- Hi, My name is **Dani Harmade**. I'm from **Universitas Islam Negeri Sultan Syarif Kasim Riau** taking Bachelor of Science **Information System**.
 I have huge interest in Web Developer & Networking.
