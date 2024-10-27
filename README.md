@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋 I'm Dani Harmade</h1>
+<h1 align="center">Hi there👋 I'm Dani Harmade.</h1>
 
 ![hero](https://github.com/daniharmade/daniharmade/assets/128836963/44909f65-d330-4d24-a633-58dfc5c944a7)
 
