@@ -3,7 +3,7 @@
 ![hero](https://github.com/daniharmade/daniharmade/assets/128836963/44909f65-d330-4d24-a633-58dfc5c944a7)
 
 Hi, My name is **Dani Harmade**. I'm from **Universitas Islam Negeri Sultan Syarif Kasim Riau** taking Bachelor of Science **Information System**.
-I have huge interest in **Software Engineering & Networking**.
+I have huge interest in **Software Engineering**.
 
 If you are interested in collaborating, please follow my [Linkedin](https://www.linkedin.com/in/daniharmade/) account to discuss further.
 
