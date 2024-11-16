@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋 I'm Dani Harmade.</h1>
 
-Hi, My name is **Dani Harmadee**. I'm from **Universitas Islam Negeri Sultan Syarif Kasim Riau** taking Bachelor of Science **Information System**.
+Hi, My name is **Dani Harmade**. I'm from **Universitas Islam Negeri Sultan Syarif Kasim Riau** taking Bachelor of Science **Information System**.
 I have huge interest in **Software Engineering**.
 
 If you are interested in collaborating, please follow my [Linkedin](https://www.linkedin.com/in/daniharmade/) account to discuss further.
