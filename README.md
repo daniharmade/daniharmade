@@ -11,6 +11,7 @@ If you are interested in collaborating, please follow my [Linkedin](https://www.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniharmade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniharmade&layout=compact&langs_count=8&theme=algolia"/>
 </p>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniharmade&theme=ads-juicy-fresh&hide_border=true&background=112240&fire=F97316&ring=F97316&currStreakNum=5EEAD4&sideNums=5EEAD4&sideLabels=CCD6F6&dates=8892B0)](https://git.io/streak-stats)
 <hr>
 
