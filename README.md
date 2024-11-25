@@ -15,4 +15,7 @@ I have huge interest in **Software Engineering**.
 <hr>
 
 <h3 align="center">Get In Touch</h3>
-I'm always open to new ideas and opportunities. You can learn more about me on my website or connect with me on [Linkedin](https://www.linkedin.com/in/daniharmade/) Feel free to reach out to me directly at daniharmade@gmail.com Let's connect and explore exciting possibilities together! 🚀
+<p align="center">
+I'm always open to new ideas and opportunities. You can learn more about me on my website or connect with me on <a href="https://www.linkedin.com/in/daniharmade/" target="_blank">LinkedIn</a>. Feel free to reach out to me directly at <a href="mailto:daniharmade@gmail.com">daniharmade@gmail.com</a>. Let's connect and explore exciting possibilities together! 🚀
+</p>
+
