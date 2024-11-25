@@ -5,13 +5,6 @@ I have huge interest in **Software Engineering**.
 
 If you are interested in collaborating, please follow my [Linkedin](https://www.linkedin.com/in/daniharmade/) account to discuss further.
 
-<img alt="my languange" align="left" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniharmade&layout=compact&theme=radical"/>
- 
-
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=daniharmade&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=daniharmade&layout=compact&langs_count=8&theme=algolia"/>
-
 <h3 align="center">My Github's Stats</h3>
 <hr>
 <p align="center">
