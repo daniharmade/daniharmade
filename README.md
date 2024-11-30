@@ -10,8 +10,10 @@ Hi, My name is Dani Harmade. I'm from Universitas Islam Negeri Sultan Syarif Kas
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniharmade&theme=blue_navy&hide_border=false" alt="Streak Stats" width="60%" />
+  <span style="display: inline-block; width: 5%;"></span> <!-- Menambahkan jarak di sini -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniharmade&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="35%" />
 </p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daniharmade&icon=0&color=0)](https://visitcount.itsvg.in)
