@@ -11,7 +11,7 @@ Hi, My name is Dani Harmade. I'm from Universitas Islam Negeri Sultan Syarif Kas
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniharmade&theme=blue_navy&hide_border=false" alt="Streak Stats" width="50%" />
   <span style="display: inline-block; width: 5%;"></span> <!-- Menambahkan jarak di sini -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniharmade&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniharmade&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="45%" />
 </p>
 
 
