@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Dani Harmade</h1>
 
 <p align="center">
-🚀 Passionate Android & Full Stack Developer • 🎓 Information Systems Student • 🏅 Bangkit Distinction Graduate
+🚀 Passionate Android & Web Developer • 🎓 Information Systems Student • 🏅 Bangkit Distinction Graduate
 </p>
 
 ---
