@@ -6,15 +6,7 @@
 
 ---
 
-🎓 **6th-semester Information Systems student** with a GPA of 3.86 and hands-on experience as an **Android** and **Full Stack Developer**.  
-🏆 Selected from thousands for top tech programs like **Bangkit Academy** (Distinction Graduate, Mobile Development) and **DBS Foundation Coding Camp**.  
-🎖️ Certified **BNSP Junior Web Developer**.  
-🛠️ Skilled in **PHP**, **JavaScript**, **Kotlin**, **Laravel**, and **Jetpack Compose**.  
-📱 Built impactful projects such as:  
-• A digital **lab assistant registration system (LARIS)**  
-• An AI-powered **skin disease detection app (DAISY)**  
-🤝 Active in communities like **Google Developer Student Clubs (GDSC)** and **ISNC Research**.  
-💡 I believe technology is a tool for creating real, sustainable impact.
+6th-semester Information Systems student with experience as an Android and Full Stack Developer. Selected for top programs like Bangkit Academy (Distinction Graduate, Mobile Development) and DBS Foundation Coding Camp. Certified as a BNSP Junior Web Developer. Skilled in PHP, JavaScript, Kotlin, Laravel, and Jetpack Compose. I’ve built a digital lab assistant registration system and an AI-powered skin disease detection app. Active in tech communities such as GDSC. I believe technology is a tool for real, sustainable impact.
 
 ---
 
