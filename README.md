@@ -23,7 +23,7 @@
 <h3 align="center">📬 Get In Touch</h3>
 
 <p align="center">
-🌐 <a href="https://daniharmade.github.io" target="_blank">Personal Website</a> • 
+🌐 <a href="http://daniharmade.vercel.app/" target="_blank">Personal Website</a> • 
 💼 <a href="https://www.linkedin.com/in/daniharmade/" target="_blank">LinkedIn</a> • 
 📧 <a href="mailto:daniharmade@gmail.com">Email Me</a>
 </p>
