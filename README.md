@@ -20,7 +20,7 @@
 
 📱 Featured Projects:  
 - **DAISY**: AI-powered mobile app for skin disease detection  
-- **LARIS**: Digital lab assistant registration system adopted at faculty level  
+- **LARIS**: Digital lab assistant registration system adopted at study program level  
 
 🏢 Industry Experience:  
 - **Software Engineer Intern** – Edukarir Global Nusantara  
