@@ -6,7 +6,7 @@
 
 ---
 
-6th-semester Information Systems student with experience as an Android and Full Stack Developer. Selected for top programs like Bangkit Academy (Distinction Graduate, Mobile Development) and DBS Foundation Coding Camp (Distinction Graduate, Mobile Development). Certified as a BNSP Junior Web Developer. Skilled in PHP, JavaScript, Kotlin, Laravel, and Jetpack Compose. I’ve built a digital lab assistant registration system and an AI-powered skin disease detection app. Active in tech communities such as GDSC. I believe technology is a tool for real, sustainable impact.
+6th-semester Information Systems student with experience as an Android and Full Stack Developer. Selected for top programs like Bangkit Academy (Distinction Graduate, Android Developer) and DBS Foundation Coding Camp (Distinction Graduate, Full Stack Developer). Certified as a BNSP Junior Web Developer. Skilled in PHP, JavaScript, Kotlin, Laravel, and Jetpack Compose. I’ve built a digital lab assistant registration system and an AI-powered skin disease detection app. Active in tech communities such as GDSC. I believe technology is a tool for real, sustainable impact.
 
 ---
 
