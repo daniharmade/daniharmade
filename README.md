@@ -6,7 +6,7 @@
 
 ---
 
-Information Systems Graduate with 1 year of experience in website and Android development, and active participation in various bootcamps. Skilled in web development (PHP & JavaScript frameworks) and Android development (Kotlin). Passionate about leveraging technical expertise to deliver innovative solutions. Open to opportunities as a Software Engineer, System Analyst, Full Stack Developer, Front-End/Back-End Developer, or Android Developer.
+Information System graduate with 1 year of hands-on experience in web and Android development, supported by intensive bootcamp training and real project implementation. Experienced in building and maintaining scalable applications using Laravel, JavaScript frameworks, and Kotlin, with solid understanding of system analysis and application architecture. Seeking opportunities as Software Engineer, Front-End/Back-End Developer, System Analyst, or Android Developer.
 
 ---
 
