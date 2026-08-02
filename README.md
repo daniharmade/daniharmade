@@ -13,9 +13,6 @@ Passionate about building reliable software through test automation, backend eng
 ## 👨‍💻 Tech Stack
 
 ### QA Automation
-<p>
-<img src="https://skillicons.dev/icons?i=postman" />
-</p>
 
 <p>
 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
@@ -26,7 +23,7 @@ Passionate about building reliable software through test automation, backend eng
 
 ### Software Engineering
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,typescript,javascript,nodejs,kotlin,mysql,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,typescript,javascript,nodejs,kotlin,mysql,postgres,firebase,postman" />
 </p>
 
 ### Machine Learning & Computer Vision
