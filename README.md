@@ -51,6 +51,7 @@ Passionate about building reliable software through test automation, backend eng
 <img src="https://img.shields.io/badge/CI%2FCD-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Software%20Quality-1F6FEB?style=for-the-badge"/>
 </p>
+
 ---
 
 ## 📫 Contact
