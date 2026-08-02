@@ -14,7 +14,6 @@ Passionate about building reliable software through test automation, backend eng
 
 ### QA Automation
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Robot%20Framework-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
@@ -27,9 +26,13 @@ Passionate about building reliable software through test automation, backend eng
 <img src="https://skillicons.dev/icons?i=laravel,php,nextjs,react,typescript,javascript,nodejs,kotlin,mysql,postgres,firebase" />
 </p>
 
-### DevOps & Tools
+### Machine Learning & Computer Vision
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask" />
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 </p>
 
 ---
