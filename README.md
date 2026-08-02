@@ -59,7 +59,7 @@ Passionate about building reliable software through test automation, backend eng
 <h2 align="center">Let's Connect 🤝</h2>
 
 <p align="center">
-I'm always open to discussing software engineering, QA automation, collaboration, or new opportunities.
+I'm always open to software engineering, QA automation, research collaborations, open-source contributions, and exciting career opportunities.
 </p>
 
 <p align="center">
