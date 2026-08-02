@@ -14,11 +14,14 @@ Passionate about building reliable software through test automation, backend eng
 
 ### QA Automation
 <p>
-<img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Robot%20Framework-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qase-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Gherkin-BDD-success?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gherkin-BDD-5CB85C?style=for-the-badge"/>
 </p>
 
 ### Software Engineering
@@ -28,14 +31,14 @@ Passionate about building reliable software through test automation, backend eng
 
 ### Machine Learning & Computer Vision
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask" />
-<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,flask,sklearn" />
 </p>
 
----
+<p>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
 ## 📌 Expertise
 
