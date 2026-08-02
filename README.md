@@ -63,19 +63,19 @@ I'm always open to software engineering, QA automation, research collaborations,
 </p>
 
 <p align="center">
-<a href="https://github.com/daniharmade">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://daniharmade.vercel.app">
+<a href="https://daniharmade.vercel.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/daniharmade">
+<a href="https://linkedin.com/in/daniharmade" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:daniharmade@gmail.com">
+<a href="mailto:daniharmade@gmail.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://scholar.google.com/citations?user=TYSZfHQAAAAJ&hl=id" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
 </p>
