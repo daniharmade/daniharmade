@@ -18,7 +18,9 @@ Passionate about building reliable software through test automation, backend eng
 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Qase-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gherkin-BDD-5CB85C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/UiAutomator2-3DDC84?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XCUITest-147EFB?style=for-the-badge"/>
 </p>
 
 ### Software Engineering
