@@ -39,15 +39,16 @@ Passionate about building reliable software through test automation, backend eng
 
 ## 📌 Expertise
 
-- Quality Assurance Automation
-- Mobile Test Automation
-- REST API Testing
-- Backend Development
-- Web Development
-- Android Development
-- CI/CD Integration
-- Software Quality Engineering
-
+<p>
+<img src="https://img.shields.io/badge/QA%20Automation-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile%20Testing-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API%20Testing-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Development-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android%20Development-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Quality-1F6FEB?style=for-the-badge"/>
+</p>
 ---
 
 ## 📫 Contact
